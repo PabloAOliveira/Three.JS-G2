@@ -1,5 +1,9 @@
 # G2 — Cena Three.JS
 
+**Integrantes:**
+- Pablo Antônio De Oliveira(1134335);
+- Gabriela Lenz(1134940);
+
 Trabalho de Computação Gráfica com **Three.js** e **Rapier** (Vanilla JavaScript).
 
 ## Cenas
